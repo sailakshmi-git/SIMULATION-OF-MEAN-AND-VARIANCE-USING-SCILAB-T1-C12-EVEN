@@ -61,6 +61,10 @@ OUTPUT GRAPH:
 
 ![WhatsApp Image 2026-03-20 at 9 11 02 AM](https://github.com/user-attachments/assets/0472a197-d302-4d8e-94af-d2c63904b586)
 
+CALCULATION:
+
+<img width="832" height="886" alt="image" src="https://github.com/user-attachments/assets/88780c09-1d7f-4ede-9e18-2b59d5ed0cd5" />
+
 
 RESULT:
 
