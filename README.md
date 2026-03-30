@@ -33,6 +33,59 @@ PROCEDURE:
 
 PROGRAM:
 
+```
+clc;
+clear;
+
+// Given data
+X = [12 13 14 15 16];
+
+// Number of elements
+N = length(X);
+
+// Calculate Mean
+mean_value = sum(X) / N;
+
+// Calculate Variance
+variance_value = sum((X - mean_value).^2) / N;
+
+// Display Results
+disp("Mean = ");
+disp(mean_value);
+
+disp("Variance = ");
+disp(variance_value);
+```
+
 OUTPUT GRAPH:
 
+clc;
+clear;
+
+// Given data
+X = [12 13 14 15 16];
+
+// Number of elements
+N = length(X);
+
+// Calculate Mean
+mean_value = sum(X) / N;
+
+// Calculate Variance
+variance_value = sum((X - mean_value).^2) / N;
+
+// Display Results
+disp("Mean = ");
+disp(mean_value);
+
+disp("Variance = ");
+disp(variance_value);
+
+OUTPUT WAVEFORM:
+
+![WhatsApp Image 2026-03-20 at 9 11 02 AM](https://github.com/user-attachments/assets/0472a197-d302-4d8e-94af-d2c63904b586)
+
+
 RESULT:
+
+Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
